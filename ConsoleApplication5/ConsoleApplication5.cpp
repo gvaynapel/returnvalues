@@ -1,5 +1,6 @@
 #include"stdafx.h"
 #include <iostream>
+#include <Windows.h>
 
 // getValueFromUser will read a value in from the user, and return it to the caller
 int getValueFromUser()
