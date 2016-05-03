@@ -15,8 +15,6 @@ int main()
 {
 	int x = getValueFromUser(); // first call to getValueFromUser
 	int y = getValueFromUser(); // second call to getValueFromUser
-
 	std::cout << x << " + " << y << " = " << x + y << std::endl;
-
 	return 0;
 }
